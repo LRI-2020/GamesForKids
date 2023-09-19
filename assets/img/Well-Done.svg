@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 4.0.0.1-->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    fill-rule="evenodd"
+    stroke-linejoin="bevel"
+    viewBox="0 0 595.277 841.891"
+    version="1.1"
+    stroke-width=".501"
+    overflow="visible"
+  >
+  <defs
+    >
+    <radialGradient
+        id="RadialGradient"
+        gradientUnits="userSpaceOnUse"
+        cy="0"
+        cx="0"
+        gradientTransform="translate(460.46 582.56) rotate(248.97) scale(1 .99968)"
+        r="157.97"
+      >
+      <stop
+          stop-color="#ffffff"
+          offset="0"
+      />
+      <stop
+          stop-color="#fffc00"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <linearGradient
+        id="LinearGradient"
+        gradientUnits="userSpaceOnUse"
+        x2="64.702"
+        gradientTransform="translate(263.98 475.24) rotate(-37.101) skewX(2.8517)"
+      >
+      <stop
+          stop-color="#cccccc"
+          offset="0"
+      />
+      <stop
+          stop-color="#ffffff"
+          offset="1"
+      />
+    </linearGradient
+    >
+  </defs
+  >
+  <g
+      id="Document"
+      font-size="16"
+      transform="scale(1 -1)"
+      stroke="black"
+      font-family="Times New Roman"
+      fill="none"
+    >
+    <g
+        id="Spread"
+        transform="translate(0 -841.89)"
+      >
+      <g
+          id="Layer 1"
+        >
+        <g
+            id="Group"
+            stroke-linejoin="miter"
+          >
+          <g
+              id="Group_1"
+              fill="#000000"
+            >
+            <path
+                stroke="#000000"
+                d="m30.875 527.29c7.733 3.96 16.981 5.17 16.288 12.21-1.712 17.57-22.665 32.47-3.539 60.09 11.117 16.06 12.777 16.06 23.562 9.42 8.786-21.67 4.72-33.14 4.72-57.72 7.205-6.09 32.324-9.07 35.354-18.85 3.06-9.86 0.95-29 8.59-26.17 56.73 21.12 57.15-5.51 11.31-32.17-5.94-3.45 9.71-13.83 7.2-21.77-2.59-8.2-9.1-6.43-12.96-11.79-9.81-13.62-25.336-18.58-47.134-17.66-37.524 1.55-61.398 53.06-53.034 93.06 1.226 5.83 5.18 9.05 9.643 11.35z"
+            />
+            <path
+                stroke="#ffffff"
+                stroke-width="3.323"
+                stroke-miterlimit="79.84"
+                d="m64.838 535.97c-5.709 1.14-19.958-2.73-14.146-8.25 4.852-4.6 47.441 11.6 42.425-9.42-5.856-24.56-10.716-19.01-37.704-20.03"
+                fill="none"
+            />
+            <path
+                stroke="#ffffff"
+                stroke-width="3.323"
+                stroke-miterlimit="79.84"
+                d="m95.477 510.06c21.963-3.91 17.233-72.77-27.098-49.49"
+                fill="none"
+            />
+            <path
+                stroke="#ffffff"
+                stroke-width="3.323"
+                stroke-miterlimit="79.84"
+                d="m104.1 468.1c5.26-4.54 12.77-33.62-3.91-38.16"
+                fill="none"
+            />
+          </g
+          >
+          <path
+              stroke="none"
+              d="m329.5 699.74c106.4 0 192.75-81.3 192.75-181.46s-86.35-181.46-192.75-181.46-192.75 81.3-192.75 181.46 86.35 181.46 192.75 181.46z"
+              fill="url(#RadialGradient)"
+          />
+          <g
+              id="Group_2"
+            >
+            <path
+                d="m278.9 633.3c21.61 0 30.02-26.2 18.76-58.48s-37.93-58.48-59.54-58.48-30.02 26.2-18.76 58.48 37.93 58.48 59.54 58.48z"
+                stroke-miterlimit="79.84"
+                stroke-width="1.714"
+                fill="#ffffff"
+            />
+            <path
+                stroke="none"
+                d="m251.38 582.27c12.18 0 16.99-14.77 10.74-32.97-6.26-18.2-21.22-32.97-33.41-32.97-12.18 0-16.99 14.77-10.74 32.97 6.26 18.2 21.22 32.97 33.41 32.97z"
+                fill="#000000"
+            />
+            <path
+                d="m346.93 634.16c21.61 0 30.01-26.2 18.76-58.48s-37.93-58.49-59.53-58.49c-21.61 0-30.02 26.21-18.76 58.49 11.25 32.28 37.92 58.48 59.53 58.48z"
+                stroke-miterlimit="79.84"
+                stroke-width="1.714"
+                fill="#ffffff"
+            />
+            <path
+                stroke="none"
+                d="m319.4 583.12c12.18 0 17-14.77 10.74-32.96-6.25-18.2-21.21-32.97-33.39-32.97s-16.99 14.77-10.74 32.97c6.25 18.19 21.21 32.96 33.39 32.96z"
+                fill="#000000"
+            />
+          </g
+          >
+          <path
+              d="m200.53 449.56c36.9-7.22 111.74 5.45 151.66 31.27 4.08 2.64 28.1 26.55 26.85 33.58 28.38-8.2 19.35-107.85-42.08-119.25-48.6-9.01-93.01-8.41-136.43 54.4z"
+              stroke-miterlimit="79.84"
+              stroke-width="1.453"
+              fill="url(#LinearGradient)"
+          />
+          <path
+              d="m376.24 700.28c-8.22 12.38-13.67-28.66-3.35-33.09 40.44-17.34 54.44-10.42 100.93 1.29-24.07 7.25-77.45 1.49-97.58 31.8z"
+              stroke-miterlimit="79.84"
+              stroke-width="1.429"
+              fill="#000000"
+          />
+          <path
+              d="m319.3 707.14c9.56 5.62-6.12-22.92-13.15-22.69-27.55 0.89-31.32 9.68-48.85 31.43 15.03-2.54 38.59-22.49 62-8.74z"
+              stroke-miterlimit="79.84"
+              stroke-width=".966"
+              fill="#000000"
+          />
+        </g
+        >
+      </g
+      >
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
