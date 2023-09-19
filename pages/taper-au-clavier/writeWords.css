@@ -1,0 +1,13 @@
+﻿.hidden {
+    display: none;
+}
+
+#wellDone--Wrapper {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 25%
+}
+
+img {
+    width: 100%;
+}
