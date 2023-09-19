@@ -5,21 +5,13 @@ let stopGameBtn = document.getElementById('stopGame-writeWords');
 let writeWordsForm = document.getElementById("writeWords-formGame");
 let input = document.getElementById('input-writeWords-Response');
 let wordExample = document.getElementById('section-writeWords-WordExample');
+let backToMenuBtn = document.getElementById('btn-backToMenu__writeWords');
 
-//start and stop game
+//back to menu btn
 
-startGameBtn.onclick = function () {
+backToMenuBtn.onclick = ()=> window.location="../../";
 
-    document.getElementById('c-section-writeWords_gameWrapper').classList.toggle("hidden");
-    getNewWordToWrite();
-}
-
-stopGameBtn.onclick = function () {
-
-    document.getElementById('c-section-writeWords_gameWrapper').classList.toggle("hidden");
-}
-
-// check answer
+// check answer when form submitted
 writeWordsForm.addEventListener('submit', (event) => {
     event.preventDefault();
 
@@ -30,7 +22,7 @@ writeWordsForm.addEventListener('submit', (event) => {
         }
         
         else{
-            // alert("Bien joué!");
+            // display well done;
             document.getElementById('wellDone--Wrapper').classList.toggle("hidden");
             setTimeout(function() {
                 document.getElementById('wellDone--Wrapper').classList.toggle('hidden');

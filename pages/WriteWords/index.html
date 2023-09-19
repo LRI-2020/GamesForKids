@@ -14,22 +14,24 @@
         <div class="titleAndConsignWrapper">
             <h1 id="c-section-writeWords_title" class="gameTitle">Taper des mots</h1>
             <p id="c-section-writeWords_consigne" class="consigne">Regarde le mot qui s'affiche et tape le même</p>
-            <button id="startGame-writeWords" class="startGameBtn">Jouer</button>
         </div>
 
-        <div id="c-section-writeWords_gameWrapper" class="gameWrapper hidden">
+        <div id="c-section-writeWords_gameWrapper" class="gameWrapper">
             <h2 id="section-writeWords-WordExample">Exemple</h2>
 
             <form id="writeWords-formGame" action="taper-au-clavier.js" method="post">
                 <label for="input-writeWords-Response"></label>
                 <input id="input-writeWords-Response" type="text" name="writtenWord">
                 <input id="btn-submit-writeWords" class="submit" type="submit" value="Valider">
-                <button id="stopGame-writeWords" class="startGameBtn">Stop</button>
             </form>
         </div>
         
         <div id="wellDone--Wrapper" class="hidden">
             <img src="../../assets/img/Well-Done.svg" alt="wellDoneIcon">
+        </div>
+        
+        <div id="backToMenu__btnWrapper">
+            <button id="btn-backToMenu__writeWords" class="backToMenu">Menu</button>
         </div>
 
     </section>
