@@ -7,9 +7,8 @@ let input = document.getElementById('input-writeWords-Response');
 let wordExample = document.getElementById('section-writeWords-WordExample');
 let backToMenuBtn = document.getElementById('btn-backToMenu__writeWords');
 
-//back to menu btn
-
-backToMenuBtn.onclick = ()=> window.location="../../";
+//Start Game when page load;
+getNewWordToWrite();
 
 // check answer when form submitted
 writeWordsForm.addEventListener('submit', (event) => {
@@ -33,6 +32,11 @@ writeWordsForm.addEventListener('submit', (event) => {
     }
     
 });
+
+
+//back to menu btn
+
+backToMenuBtn.onclick = ()=> window.location="../../";
 
 function IsNullOrEmpty(input) {
     return input === null || input === '' || (input.trim()).length === 0;
