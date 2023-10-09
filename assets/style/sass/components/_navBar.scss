@@ -1,9 +1,8 @@
 ﻿.navbar {
   background: none;
 
-
   .navbar-brand {
-    background-color: #f8dbdf;
+    background-color: $lightPink;
     border-radius: 15px;
     width: 50%;
 
@@ -16,7 +15,5 @@
 }
 
 
-.container-fluid {
-  margin: 2% 0;
-}
+
 

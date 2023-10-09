@@ -3,39 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <script type="module" src="writeWords.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+          crossorigin="anonymous">
     <link rel="stylesheet" href="../../assets/style/sass/style.css">
     <title>Write Words </title>
 </head>
-<body>
-
+<body class="gamePage">
 <main>
+    <div class="container">
+            <div class="gameContent d-flex flex-column center align-middle  align-items-center my-5 mx-auto p-3">
+                <div id="wellDone--Wrapper" class="hidden">
+                    <img src="../../assets/img/Well-Done.jpg" alt="wellDoneIcon">
+                </div>
+                <h1 class="consigne p-2">Tape le mot qui s'affiche</h1>
+               
+                <div class="gameInputs">
+                    <p id="section-writeWords-WordExample"></p>
 
-    <section id="c-section__writeWords">
-        <div class="titleAndConsignWrapper">
-            <h1 id="c-section-writeWords_title" class="gameTitle">Taper des mots</h1>
-            <p id="c-section-writeWords_consign" class="consign">Regarde le mot qui s'affiche et tape le même</p>
-        </div>
-
-        <div id="c-section-writeWords_gameWrapper" class="gameWrapper">
-            <p id="section-writeWords-WordExample"></p>
-
-            <form id="writeWords-formGame" action="writeWords.js" method="post">
-                <label for="input-writeWords-Response"></label>
-                <input id="input-writeWords-Response" type="text" name="writtenWord">
-                <input id="btn-submit-writeWords" class="submit" type="submit" value="Valider">
-            </form>
-        </div>
-
-        <div id="backToMenu__btnWrapper">
-            <button id="btn-backToMenu__writeWords" class="backToMenu">Menu</button>
-        </div>
-
-        <div id="wellDone--Wrapper" class="hidden">
-            <img src="../../assets/img/Well-Done.svg" alt="wellDoneIcon">
-        </div>
+                    <form id="writeWords-formGame" action="writeWords.js" method="post">
+                        <label for="input-writeWords-Response"></label>
+                        <input id="input-writeWords-Response" type="text" name="writtenWord">
+                        <input id="btn-submit-writeWords" class="submit" type="submit" value="Valider">
+                    </form>
+                </div>
+               
+            </div>
 
 
-    </section>
+            <div id="backToMenu__btnWrapper">
+                <button id="btn-backToMenu__writeWords" class="backToMenu">Menu</button>
+            </div>
+
+       
+
+    </div>
 </main>
 
 

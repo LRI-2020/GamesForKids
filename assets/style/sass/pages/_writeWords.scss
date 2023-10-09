@@ -10,10 +10,18 @@ form {
 
 
 #wellDone--Wrapper {
-    width: 100%;
-    margin: 0 25%
+    width: 50%;
+    margin: 0;
+    position:absolute;
+    img{border-radius: 50%;}
+    
 }
 
 img {
     width: 100%;
+}
+
+.gamePage{
+    background-color: $lightPink;
+    height:99rem;
 }
