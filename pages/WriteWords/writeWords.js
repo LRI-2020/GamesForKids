@@ -22,9 +22,9 @@ writeWordsForm.addEventListener('submit', (event) => {
         
         else{
             // display well done;
-            document.getElementById('wellDone--Wrapper').classList.toggle("hidden");
+            document.getElementById('wellDone--Wrapper').classList.remove("hidden");
             setTimeout(function() {
-                document.getElementById('wellDone--Wrapper').classList.toggle('hidden');
+                document.getElementById('wellDone--Wrapper').classList.add('hidden');
             }, 1000);
             input.value='';
             getNewWordToWrite();
